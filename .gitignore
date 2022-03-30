@@ -1,0 +1,10 @@
+# macos
+.DS_Store
+
+# vscode
+.vscode/
+__debug_bin*
+debug.test
+
+# folders
+bin/
